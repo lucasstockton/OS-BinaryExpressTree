@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Prototype
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Prototype\ here.\r\n\r\n\ @author\ Lucsa\ Heuman\r\n\ @version\ Prototype\ 1\r\n\ First\ I\ imported\ the\ Scanner\ Class\ import\ java.util.Scanner;\ I\ use\ this\ to\ grab\ the\ input\ from\ the\ user.\r\n\ \r\n\ operands\ \ are\ the\ integers\ and\ operators\ are\ the\ math\ functions\r\n\ \r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=op
+comment2.target=int\ precedence(char)
+numComments=3

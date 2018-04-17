@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ExpressionTree
+comment1.params=c
+comment1.target=boolean\ isOperator(char)
+comment2.params=t
+comment2.target=void\ inorder(Node)
+comment3.params=postfix
+comment3.target=Node\ constructTree(char[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
